@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alay1313
+- 👋 Hi, I’m Alie Shbur
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Reactjs and Nodejs
+- 🌱 I’m currently learning Reactjs and Nodejs and in school for CS.
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...my email.
+- 📫 How to reach me ...my email (artjj09@gmail.com).
 
 <!---
 Alay1313/Alay1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
